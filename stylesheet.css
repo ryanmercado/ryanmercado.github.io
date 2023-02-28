@@ -1,0 +1,52 @@
+Copy code
+/* Apply styles to the h1 tag */
+h1 {
+	color: navy;
+	font-family: Arial, sans-serif;
+}
+
+/* Create a class and apply it to the p tags */
+.my-paragraph {
+	background-color: #eee;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+/* Apply a style to an id */
+#link1 {
+	color: red;
+	font-weight: bold;
+}
+
+/* Use div to create sections of content */
+.section1 {
+	background-color: #f1f1f1;
+	padding: 20px;
+}
+
+.section2 {
+	background-color: #ddd;
+	padding: 20px;
+}
+
+/* Use a to link to another website and style it when hovered */
+a {
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover {
+	color: purple;
+	text-decoration: underline;
+}
+
+/* Change box model properties of an element */
+.section1 {
+	border: 1px solid black;
+	margin: 10px;
+}
+
+img {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
