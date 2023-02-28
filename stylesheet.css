@@ -4,6 +4,10 @@ h1 {
 	color: navy;
 	font-family: Arial, sans-serif;
 }
+#id1 {
+    color: darkred;
+    font-family: 'Montserrat', sans-serif;
+}
 
 /* Create a class and apply it to the p tags */
 .my-paragraph {
@@ -36,7 +40,7 @@ a {
 }
 
 a:hover {
-	color: purple;
+	color: rgb(255, 0, 0);
 	text-decoration: underline;
 }
 
